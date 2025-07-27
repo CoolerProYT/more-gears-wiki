@@ -16,16 +16,16 @@ defineProps({
                     Item name
                 </th>
                 <th scope="col" class="px-3 md:px-6 py-3">
-                    <span class="hidden xs:block">Durability</span>
-                    <span class="xs:hidden">Durability</span>
+                    <span class="hidden sm:block">Durability</span>
+                    <span class="sm:hidden">Dura</span>
                 </th>
                 <th scope="col" class="px-3 md:px-6 py-3">
-                    <span class="hidden xs:block">Toughness</span>
-                    <span class="xs:hidden">Tough</span>
+                    <span class="hidden sm:block">Toughness</span>
+                    <span class="sm:hidden">Tough</span>
                 </th>
                 <th scope="col" class="px-3 md:px-6 py-3">
-                    <span class="hidden xs:block">Knockback Resistance</span>
-                    <span class="xs:hidden">Knk Res</span>
+                    <span class="hidden sm:block">Knockback Resistance</span>
+                    <span class="sm:hidden">Knk Res</span>
                 </th>
             </tr>
             </thead>

@@ -12,10 +12,6 @@
     </div>
 </template>
 
-<style>
-
-</style>
-
 <script setup>
 import SideBarLink from "@/components/SideBarLink.vue";
 </script>

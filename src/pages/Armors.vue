@@ -163,13 +163,6 @@
 <script setup>
 import {onBeforeUnmount, onMounted, ref} from 'vue';
 import AnchorLink from "@/components/AnchorLink.vue";
-import SwordRecipe from "@/components/SwordRecipe.vue";
-import PickaxeRecipe from "@/components/PickaxeRecipe.vue";
-import ShovelRecipe from "@/components/ShovelRecipe.vue";
-import AxeRecipe from "@/components/AxeRecipe.vue";
-import HoeRecipe from "@/components/HoeRecipe.vue";
-import BowRecipe from "@/components/BowRecipe.vue";
-import ArrowRecipe from "@/components/ArrowRecipe.vue";
 import SmithingGui from "@/components/SmithingGui.vue";
 import ArmorTable from "@/components/ArmorTable.vue";
 import HelmetRecipe from "@/components/HelmetRecipe.vue";
