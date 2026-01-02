@@ -185,31 +185,43 @@ export default {
                     minecraftVersion: "1.20.1",
                     modLoader: ["forge", "fabric"],
                     bugFix: "✅",
-                    latestVersion: "2.0.0"
+                    latestVersion: "2.1.0"
                 },
                 {
                     minecraftVersion: "1.21.1",
                     modLoader: ["neoforge", "fabric"],
                     bugFix: "✅",
-                    latestVersion: "2.0.0"
+                    latestVersion: "2.1.0"
                 },
                 {
                     minecraftVersion: "1.21.4",
                     modLoader: ["neoforge", "fabric"],
-                    bugFix: "✅",
-                    latestVersion: "2.0.2-neoforge, 2.0.1-fabric"
+                    bugFix: "❌",
+                    latestVersion: "2.1.0"
                 },
                 {
                     minecraftVersion: "1.21.5",
                     modLoader: ["neoforge", "fabric"],
-                    bugFix: "✅",
-                    latestVersion: "2.0.2-neoforge, 2.0.1-fabric"
+                    bugFix: "❌",
+                    latestVersion: "2.1.0"
                 },
                 {
                     minecraftVersion: "1.21.8",
                     modLoader: ["neoforge", "fabric"],
+                    bugFix: "❌",
+                    latestVersion: "2.1.0"
+                },
+                {
+                    minecraftVersion: "1.21.10",
+                    modLoader: ["neoforge", "fabric"],
                     bugFix: "✅",
-                    latestVersion: "2.0.2-neoforge, 2.0.1-fabric"
+                    latestVersion: "2.1.0"
+                },
+                {
+                    minecraftVersion: "1.21.11",
+                    modLoader: ["neoforge", "fabric"],
+                    bugFix: "✅",
+                    latestVersion: "2.1.0"
                 }
             ]
         };
