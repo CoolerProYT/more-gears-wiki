@@ -2,7 +2,7 @@
     <div class="relative w-10 h-10 xs:h-12 xs:w-12 md:w-16 md:h-16 bg-[#8B8B8B] border-2 border-[#FFFFFF] border-t-[#373737] border-l-[#373737] group">
         <div class="bucket-container relative">
             <img v-if="item.startsWith('minecraft:')"
-                 :src="'https://minecraft-api.vercel.app/images/items/' + item.replaceAll('minecraft:','') + '.png'"
+                 :src="'https://coolerpromc.com/minecraft/item/minecraft__' + item.replaceAll('minecraft:','') + '.png'"
                  class="w-full h-full object-contain subpixel-antialiased"
             >
             <img v-else-if="item !== ''"

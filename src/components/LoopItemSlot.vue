@@ -5,7 +5,7 @@
             <template v-for="(singleItem, index) in item" :key="index">
                 <img
                     v-if="singleItem.startsWith('minecraft:')"
-                    :src="'https://minecraft-api.vercel.app/images/items/' + singleItem.replace('minecraft:', '') + '.png'"
+                    :src="'https://coolerpromc.com/minecraft/item/minecraft__' + singleItem.replace('minecraft:', '') + '.png'"
                     class="w-full h-full object-contain"
                     :class="{ 'block': currentIndex === index, 'hidden': currentIndex !== index }"
                 >
